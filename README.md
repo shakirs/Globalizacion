@@ -1,2 +1,1 @@
 # Globalizacion
-Globalizacion, Proyecto
